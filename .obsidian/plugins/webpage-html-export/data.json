@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/zerokun265/Obsidian/Blog-export",
+  "exportPath": "/home/zerokun265/Obsidian/Blog/build",
   "filesToExport": [
     [
       "article-banners",

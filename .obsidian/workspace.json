@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "articles/The making of BugCatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "articles/The making of BugCatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "articles/The making of BugCatcher.md"
               }
             }
           }
@@ -166,11 +166,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04243cf734edb574",
+  "floating": {
+    "id": "837b2ed5a113051b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4ee90f3356800d5b",
+        "type": "window",
+        "children": [
+          {
+            "id": "c92c6cca018bd8cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5dcc9327451ca705",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "articles/The making of Sun Core.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5dcc9327451ca705",
   "lastOpenFiles": [
+    "index.md",
     "articles/The making of Sun Core.md",
     "articles/The making of BugCatcher.md",
-    "index.md",
     "assets/icon.png",
     "assets",
     "article-banners/The making of BugCatcher - banner.png",

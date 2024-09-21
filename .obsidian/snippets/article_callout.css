@@ -1,0 +1,10 @@
+.callout[data-callout-metadata*="article"] {
+    border-radius: 45px;
+    .callout-icon {
+        display: none;
+    }
+    .callout-content h1 {
+        text-align: left
+    }
+}
+

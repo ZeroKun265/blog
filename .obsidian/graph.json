@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"4. Archivio\"  -path:\"99. Allegati\"  -path:\"999. hidden\"",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"1. Progetti\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14634707
+      }
+    },
+    {
+      "query": "path:\"2. Aree\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6070742
+      }
+    },
+    {
+      "query": "path:\"3. Risorse\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:Digital Garden",
+      "color": {
+        "a": 1,
+        "rgb": 9251761
+      }
+    },
+    {
+      "query": "path:\"5. Unsorted\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14217252
+      }
+    },
+    {
+      "query": "path:\"10. Journal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12409354
+      }
+    },
+    {
+      "query": "path:\"4. Archivio\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9079434
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.05235233905960886,
+  "close": true
+}

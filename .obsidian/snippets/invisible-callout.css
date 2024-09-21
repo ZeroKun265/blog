@@ -1,0 +1,4 @@
+.callout[data-callout="invisible"] {
+    --callout-color: transparent !important;
+    --callout-icon: none;
+}

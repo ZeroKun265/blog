@@ -1,0 +1,20 @@
+{
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "5. Unsorted",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 65
+  },
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "99. Allegati",
+  "alwaysUpdateLinks": true
+}

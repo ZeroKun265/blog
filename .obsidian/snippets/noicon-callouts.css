@@ -1,0 +1,7 @@
+.callout:is([data-callout-metadata~="noicon"]) .callout-icon{
+    display: none;
+}
+
+.callout:is([data-callout-metadata~="article"]) .callout-icon{
+    display: none;
+}

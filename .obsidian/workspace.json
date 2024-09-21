@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e51068c6fdbeccde",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb272c58b690255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04243cf734edb574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77695d6212c8745a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8050c205d9efe696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32bbe608e0fdf524",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e45b0bd5f611cdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec1ac1d3efa56491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d8c451d7d9828bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "82b88e1e2b7874f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "deebb0d9ad90eb23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd093514318a4a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9186b458fd4b8b16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1e2c5ae618969d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "959ea6b0c1017074",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "621c17a64494c112",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "04243cf734edb574",
+  "lastOpenFiles": [
+    "articles/The making of Sun Core.md",
+    "articles/The making of BugCatcher.md",
+    "index.md",
+    "assets/icon.png",
+    "assets",
+    "article-banners/The making of BugCatcher - banner.png",
+    "article-banners/The making of Sun Core - banner.png",
+    "article-banners",
+    "games/Sun-Core.md",
+    "games",
+    "articles",
+    "999. hidden/tmp2.md",
+    "999. hidden/Dashboard.md",
+    "999. hidden/Parole chiave & Note rapide.md",
+    "1. Progetti/PoliMi Principi di Ingegneria Elettrica/PoliMi Principi di Ingegneria Elettrica.md",
+    "1. Progetti/PoliMi Principi di Ingegneria Elettrica/Introduzione a Principi di Ingegneria Elettrica.md",
+    "99. Allegati/Introduzione Statistica 2024-09-20 17.44.28.excalidraw.md",
+    "1. Progetti/PoliMi Statistica/Introduzione Statistica.md",
+    "1. Progetti/PoliMi Statistica/PoliMi Statistica.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Coefficienti Binomiali.md",
+    "1. Progetti/PoliMi Fisica Tecnica/PoliMi Fisica Tecnica.md",
+    "1. Progetti/PoliMi Fisica Tecnica/Introduzione a Fisica Tecnica.md",
+    "4. Archivio/PoliMi Metallurgia e Materiali non Metallici/Domande Metallurgia.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Teoremi Analisi 1/Teorema - Prodotto di numeri complessi in forma trigonometrica.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Considerazioni Esercitazioni Analisi 1/Esercitazione 13-10-2023.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Considerazioni Esercitazioni Analisi 1/Esercitazione 14-09-2023.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Considerazioni Esercitazioni Analisi 1/Esercitazione 29-09-2023.md",
+    "4. Archivio/PoliMi Analisi e Geometria 1/Considerazioni Esercitazioni Analisi 1/Frazione generatrice di un numero periodico.md",
+    "1. Progetti/PoliMi Analisi e Geometria 2/Applicazione Lineare.md",
+    "1. Progetti/PoliMi Analisi e Geometria 2/Autovettori e Autovalori.md",
+    "1. Progetti/PoliMi Analisi e Geometria 2/Basi vettoriali.md",
+    "1. Progetti/PoliMi Analisi e Geometria 2/Considerazioni Esercitazioni Analisi 2/Considerazioni Esercitazioni Analisi 2.md",
+    "1. Progetti/PoliMi Statistica",
+    "1. Progetti/PoliMi Costruzione di Macchine",
+    "999. hidden/WIP/Fisica",
+    "1. Progetti/PoliMi Principi di Ingegneria Elettrica",
+    "99. Allegati/Pasted image 20240831134125.png",
+    "99. Allegati/Pasted image 20231013100310.png",
+    "99. Allegati/Pasted image 20240830211711.png",
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "99. Allegati/export202408031941110240.png",
+    "99. Allegati/export202408031840584915.png",
+    "99. Allegati/Pasted image 20240801000325.png",
+    "99. Allegati/Pasted image 20240731235836.png"
+  ]
+}

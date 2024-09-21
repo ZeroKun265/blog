@@ -1,0 +1,22 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "side-callouts",
+    "noicon-callouts",
+    "its-frontmatter",
+    "custom-font-sizes",
+    "invisible-callout",
+    "center-image",
+    "mermaid_width",
+    "custom_rainbow",
+    "extended-colorscheme",
+    "floating-search-bar",
+    "center-callout",
+    "custom-admonitions.7cb9b6",
+    "center-h1",
+    "rounded_callout",
+    "article_callout"
+  ],
+  "accentColor": "#fa00cc"
+}

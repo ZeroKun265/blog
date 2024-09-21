@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e51068c6fdbeccde",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cdd27154d09654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04919f0384351c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Journal/2024-09-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5fa1573a8ac0e2e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4847edbb25fdc168",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "022788c0e0dd684f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:aree",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c272a54636311bb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ac362a22d3be3a04",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "2ef973fb7fb24692",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cb655977476dbbb9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c1877326aad7df3d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "10. Journal/2024-09-20.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7dff173ca6ec7d72",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "10. Journal/2024-09-20.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5c47cf7a09c1fa5b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "10. Journal/2024-09-20.md"
+          }
+        }
+      },
+      {
+        "id": "2216a89caf776c71",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "501297316effd03c",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian42-brat:BRAT": false,
+      "card-note:Search Notes": false,
+      "widgets:Add widget": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-javascript-init:Run Init JavaScript": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "04919f0384351c8c",
+  "lastOpenFiles": [
+    "10. Journal/2024-09-19.md",
+    "10. Journal/2024-09-20.md",
+    "10. Journal/2024-09-18.md",
+    "10. Journal/2024-09-17.md",
+    "10. Journal/2024-09-16.md",
+    "3. Risorse/Software/Autodesk Inventor.md",
+    "3. Risorse/Software/Instagram.md",
+    "3. Risorse/Software/Darktable.md",
+    "2. Aree/Programmazione/Game - Make it fly paper air plane.md",
+    "2. Aree/Programmazione/Game - Demonic office.md",
+    "2. Aree/Programmazione/Game - Death is only the beginning.md",
+    "2. Aree/Programmazione/Game - Blind Board Game.md",
+    "2. Aree/Programmazione/Code-Project LAME.md",
+    "2. Aree/Programmazione/Code-Project - Weight in shrimps.md",
+    "2. Aree/Programmazione/Code-Project - Obsidian Recursive Exporter.md",
+    "2. Aree/Programmazione/Code-Project - Focus Breaker.md",
+    "2. Aree/Computer & Linux/Setup Linux da 0.md",
+    "2. Aree/Computer & Linux/Impronte digitali con plasma e fprintd e systemd.md",
+    "2. Aree/Computer & Linux/How to generate SSH keys and use SSH login with keys - Come generare chiavi SSH e usare login con chiavi SSH.md",
+    "2. Aree/DnD/Risorse.md",
+    "2. Aree/DnD/Ranemad.md",
+    "2. Aree/DnD/Random Ideas.md",
+    "2. Aree/Finanze/Rate.md",
+    "2. Aree/Finanze/Conti.md",
+    "1. Progetti/Roleplay Kim/Zeref - Kiref - Kimura.md",
+    "1. Progetti/Roleplay Kim/Taccuino Kiref.md",
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "99. Allegati/export202408031941110240.png",
+    "_.trash",
+    "99. Allegati/export202408031840584915.png",
+    "99. Allegati/Pasted image 20240725235910.png",
+    "99. Allegati/Pasted image 20240726004142.png",
+    "99. Allegati/Pasted image 20240725235610.png",
+    "99. Allegati/Pasted image 20240725225249.png"
+  ]
+}

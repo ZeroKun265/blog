@@ -4,6 +4,8 @@ banner: "![[The making of BugCatcher - banner.png]]"
 banner_y: 0.72
 summary: I didn't do much developement because of school and stuff, but when a friend of mine told me he was learning Godot and participating in a Game Jam I could not resist, he had already started with his game so I ended up making my own entry instead.  <br> This is how I made Bug Catcher for the Zeno Jam 5 in May 2022.
 read_time: ~2 minutes
+authors:
+  - ZeroKun265
 ---
 
 # The Making of BugCatcher
@@ -16,7 +18,6 @@ textAlign=left
 ===
 #Games #Developement #Jam #Zeno-Jam #Godot
 ```
-
 ````
 
 `````col
@@ -103,3 +104,17 @@ Overall the experience was fun and I loved picking the engine up again, and i ho
 ****
 <br></br>
 # [[index|:luc_arrow_left: Homepage]]
+
+```dataviewjs
+const authorsFolder = "authors";  // Folder path for the authors, if needed
+
+// Initialize an empty string to build the entire paragraph
+let paragraph = "> > [!invisible] ### Authors:\n";
+
+dv.current().authors.forEach(author => {
+	paragraph += `![[authors/${author}.png|author-icon]]**${author}** \$\\qquad\\qquad\$`;
+})
+
+// Finally, print the entire paragraph using dv.paragraph
+dv.paragraph(paragraph);
+```

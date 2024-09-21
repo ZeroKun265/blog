@@ -1,7 +1,6 @@
 ---
 title: ZeroKun265's Blog
 ---
-
 [:luc_twitter: Twittter](https://x.com/ZeroKun265) $\qquad$ [:luc_github: Github](https://github.com/ZeroKun265) $\qquad$ [:luc_globe: Website](https://zerokun265.com) $\qquad$ [:luc_instagram: Instagram](https://www.instagram.com/zerodev265?igsh=NzhsMGExNnViN204)
 
 # ZeroKun265's Blog

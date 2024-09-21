@@ -4,8 +4,8 @@ banner:
 banner_y: 0
 summary: 
 read_time: ~NaN minutes
+authors:
 ---
-
 
 # Title
 ````col
@@ -15,7 +15,7 @@ read_time: ~NaN minutes
 ```col-md
 textAlign=left
 ===
-Insert Tags Here
+insert tags here
 ```
 ````
 
@@ -54,7 +54,6 @@ dv.paragraph(`**${formatDate(date)}**`)
 ```
 `````
 
-
 ````col
 textAlign=center
 ===
@@ -73,8 +72,23 @@ dv.header(2, 'Table of contents')
 dv.paragraph(`\`\`\`\`col\n\`\`\`col-md\nflexGrow=0.65\n===\n\n\`\`\`\n\`\`\`col-md\ntextAlign=left\n===\n${toc.join('\n')}\n\`\`\`\n\`\`\`\``)
 ```
 ````
+
 ****
-## Insert Content Here
+## Insert content Here
 ****
 <br></br>
 # [[index|:luc_arrow_left: Homepage]]
+> [!invisible] ### Authors:
+```dataviewjs
+const authorsFolder = "authors";  // Folder path for the authors, if needed
+
+// Initialize an empty string to build the entire paragraph
+let paragraph = "> $\\quad$\n";
+
+dv.current().authors.forEach(author => {
+	paragraph += `![[${author}.png|author]]**${author}** \$\\qquad\\qquad\$`;
+})
+
+// Finally, print the entire paragraph using dv.paragraph
+dv.paragraph(paragraph);
+```

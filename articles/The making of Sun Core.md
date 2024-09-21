@@ -4,6 +4,8 @@ banner: "![[The making of Sun Core - banner.png]]"
 banner_y: 0.68285
 summary: It was summer and i had nothing to do but code, you might think it's cool, what project did you build? You had an entire summer! <br> Yeah.. i was lazy and costrained myself to a 72 hour game jam, not the smartest of ideas, i know.
 read_time: ~4-5 minutes
+authors:
+  - ZeroKun265
 ---
 
 # The Making of Sun Core
@@ -141,3 +143,16 @@ Still, i don't think i'll ever touch pygame ever again, moving(actually moved, s
 ****
 <br></br>
 # [[index|:luc_arrow_left: Homepage]]
+```dataviewjs
+const authorsFolder = "authors";  // Folder path for the authors, if needed
+
+// Initialize an empty string to build the entire paragraph
+let paragraph = "> > [!invisible] ### Authors:\n";
+
+dv.current().authors.forEach(author => {
+	paragraph += `![[authors/${author}.png|author-icon]]**${author}** \$\\qquad\\qquad\$`;
+})
+
+// Finally, print the entire paragraph using dv.paragraph
+dv.paragraph(paragraph);
+```

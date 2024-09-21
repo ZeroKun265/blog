@@ -7,7 +7,6 @@
     "its-frontmatter",
     "custom-font-sizes",
     "invisible-callout",
-    "center-image",
     "mermaid_width",
     "custom_rainbow",
     "extended-colorscheme",
@@ -16,7 +15,10 @@
     "custom-admonitions.7cb9b6",
     "center-h1",
     "rounded_callout",
-    "article_callout"
+    "article_callout",
+    "authors-icon",
+    "article_callout_author_icons",
+    "center-image"
   ],
   "accentColor": "#fa00cc"
 }

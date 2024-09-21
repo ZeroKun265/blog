@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "articles/The making of BugCatcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,15 +171,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "4ee90f3356800d5b",
+        "id": "8940bf32191e640f",
         "type": "window",
         "children": [
           {
-            "id": "c92c6cca018bd8cc",
+            "id": "fcc016a54e9e1ded",
             "type": "tabs",
             "children": [
               {
-                "id": "5dcc9327451ca705",
+                "id": "e2a1f7e53ef85f63",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -203,11 +203,11 @@
       }
     ]
   },
-  "active": "5dcc9327451ca705",
+  "active": "e2a1f7e53ef85f63",
   "lastOpenFiles": [
+    "articles/The making of BugCatcher.md",
     "index.md",
     "articles/The making of Sun Core.md",
-    "articles/The making of BugCatcher.md",
     "assets/icon.png",
     "assets",
     "article-banners/The making of BugCatcher - banner.png",

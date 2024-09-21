@@ -5,8 +5,8 @@
   "includePluginCSS": "obsidian-columns\ndataview\nobsidian-icon-shortcodes\nobsidian-completr",
   "includeSvelteCSS": true,
   "titleProperty": "title",
-  "customHeadContentPath": "",
-  "faviconPath": "/home/zerokun265/Obsidian/Blog-export/assets/icon.png",
+  "customHeadContentPath": "/home/zerokun265/Obsidian/Blog/common/link-fix.html",
+  "faviconPath": "/home/zerokun265/Obsidian/Blog/docs/assets/icon.png",
   "documentWidth": "70em",
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
@@ -26,8 +26,8 @@
   "addGraphView": false,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
-  "authorName": "",
+  "siteURL": "https://blog.zerokun265.com/",
+  "authorName": "ZeroKun265",
   "vaultTitle": "ZeroKun265's Blog",
   "exportPreset": "website",
   "openAfterExport": false,
@@ -49,6 +49,8 @@
       "article-banners",
       "articles",
       "assets",
+      "authors",
+      "common",
       "index.md"
     ]
   ]

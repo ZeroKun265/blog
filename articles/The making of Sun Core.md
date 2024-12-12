@@ -70,7 +70,7 @@ const toc = content.match(new RegExp(`^#{${startAtLevel},} \\S.*`, 'mg'))
     return '\t'.repeat(level.length - startAtLevel) + `1. [[${link}|${text}]]`
   })
 dv.header(2, 'Table of contents')
-dv.paragraph(`\`\`\`\`col\n\`\`\`col-md\nflexGrow=0.65\n===\n\n\`\`\`\n\`\`\`col-md\ntextAlign=left\n===\n${toc.join('\n')}\n\`\`\`\n\`\`\`\``)
+dv.paragraph(`\`\`\`\`col\n\`\`\`col-md\nflexGrow=0.75\n===\n\n\`\`\`\n\`\`\`col-md\ntextAlign=left\n===\n${toc.join('\n')}\n\`\`\`\n\`\`\`\``)
 ```
 ````
 

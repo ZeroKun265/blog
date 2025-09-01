@@ -1,6 +1,6 @@
 {
   "vaultName": "ZeroKun265's Blog",
-  "lastExport": 1733994796557,
+  "lastExport": 1756752931808,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon ctp-latte ctp-mocha ctp-accent-light-pink ctp-accent-pink anuppuccin-accent-toggle anp-custom-checkboxes anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow rainbow-repeat-11 rainbow-color-1-rosewater rainbow-color-2-rosewater rainbow-color-3-rosewater rainbow-color-4-rosewater rainbow-color-5-rosewater rainbow-color-6-rosewater rainbow-color-7-rosewater rainbow-color-8-rosewater rainbow-color-9-rosewater rainbow-color-10-rosewater rainbow-color-11-rosewater anp-theme-ext-dark ctp-nord-light ctp-royal-velvet",
   "useCustomHeadContent": true,
@@ -8,20 +8,26 @@
   "files": [
     "article-banners/The making of BugCatcher - banner.png",
     "article-banners/The making of Sun Core - banner.png",
-    "articles/The making of BugCatcher.md",
+    "article-banners/I made the jankiest cloud gaming setup possible.. and how you should do it better - banner.png",
     "articles/The making of Sun Core.md",
-    "assets/icon.png",
+    "articles/The making of BugCatcher.md",
+    "articles/I made the jankiest cloud gaming setup possible.. and how you should do it better.md",
     "assets/test.js",
+    "assets/icon.png",
     "authors/ZeroKun265.png",
     "common/link-fix.js",
     "common/link-fix.html",
     "index.md",
     "lib/media/zerokun265.png",
+    "lib/media/pxl_20250901_140150885.mp.jpg",
+    "lib/media/pxl_20250901_140239768.mp.jpg",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
     "lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
     "lib/fonts/b5f0f109bc88052d4000.woff2",
     "lib/fonts/cbe0ae49c52c920fd563.woff2",
     "lib/fonts/535a6cf662596b3bd6a6.woff2",
@@ -30,7 +36,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/fonts/mathjax_zero.woff",
     "lib/fonts/mathjax_main-regular.woff",
     "lib/fonts/mathjax_main-bold.woff",
@@ -62,6 +68,7 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
+    "article-banners/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better-banner.png",
     "article-banners/the-making-of-bugcatcher-banner.png",
     "article-banners/the-making-of-sun-core-banner.png"
   ],
@@ -71,6 +78,8 @@
     "lib/fonts/2d5198822ab091ce4305.woff2",
     "lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
     "lib/fonts/b5f0f109bc88052d4000.woff2",
     "lib/fonts/cbe0ae49c52c920fd563.woff2",
     "lib/fonts/535a6cf662596b3bd6a6.woff2",
@@ -79,7 +88,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/fonts/mathjax_zero.woff",
     "lib/fonts/mathjax_main-regular.woff",
     "lib/fonts/mathjax_main-bold.woff",
@@ -114,165 +123,166 @@
   ],
   "fileInfo": {
     "article-banners/The making of BugCatcher - banner.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 45768,
       "exportedPath": "article-banners/the-making-of-bugcatcher-banner.png",
       "dependencies": []
     },
     "article-banners/The making of Sun Core - banner.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 32984,
       "exportedPath": "article-banners/the-making-of-sun-core-banner.png",
       "dependencies": []
     },
     "articles/The making of BugCatcher.md": {
-      "modifiedTime": 1733994796557,
-      "sourceSize": 4808,
+      "modifiedTime": 1756752931808,
+      "sourceSize": 4998,
       "exportedPath": "articles/the-making-of-bugcatcher.html",
       "dependencies": [
         "lib/media/zerokun265.png"
       ]
     },
     "articles/The making of Sun Core.md": {
-      "modifiedTime": 1733994796557,
-      "sourceSize": 8134,
+      "modifiedTime": 1756752931808,
+      "sourceSize": 8323,
       "exportedPath": "articles/the-making-of-sun-core.html",
       "dependencies": [
         "lib/media/zerokun265.png"
       ]
     },
     "assets/icon.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 370707,
       "exportedPath": "assets/icon.png",
       "dependencies": []
     },
     "assets/test.js": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 22,
       "exportedPath": "assets/test.js",
       "dependencies": []
     },
     "authors/ZeroKun265.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 370707,
       "exportedPath": "authors/zerokun265.png",
       "dependencies": []
     },
     "common/link-fix.js": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 824,
       "exportedPath": "common/link-fix.js",
       "dependencies": []
     },
     "common/link-fix.html": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 43,
       "exportedPath": "common/link-fix.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 1385,
       "exportedPath": "index.html",
       "dependencies": [
         "assets/icon.png",
+        "article-banners/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better-banner.png",
         "article-banners/the-making-of-bugcatcher-banner.png",
         "article-banners/the-making-of-sun-core-banner.png"
       ]
     },
     "lib/media/zerokun265.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 370707,
       "exportedPath": "lib/media/zerokun265.png",
       "dependencies": []
     },
     "article-banners/the-making-of-bugcatcher-banner.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 45768,
       "exportedPath": "article-banners/the-making-of-bugcatcher-banner.png",
       "dependencies": []
     },
     "article-banners/the-making-of-sun-core-banner.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 32984,
       "exportedPath": "article-banners/the-making-of-sun-core-banner.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -290,189 +300,241 @@
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 370707,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 43,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733994796557,
-      "sourceSize": 131021,
+      "modifiedTime": 1756752931808,
+      "sourceSize": 165755,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 14260,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 272230,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733994796557,
-      "sourceSize": 312,
+      "modifiedTime": 1756752931808,
+      "sourceSize": 338,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1733994796557,
+      "modifiedTime": 1756752931808,
       "sourceSize": 224602,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "article-banners/I made the jankiest cloud gaming setup possible.. and how you should do it better - banner.png": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 173147,
+      "exportedPath": "article-banners/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better-banner.png",
+      "dependencies": []
+    },
+    "articles/I made the jankiest cloud gaming setup possible.. and how you should do it better.md": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 15634,
+      "exportedPath": "articles/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better.html",
+      "dependencies": [
+        "lib/media/pxl_20250901_140150885.mp.jpg",
+        "lib/media/pxl_20250901_140239768.mp.jpg",
+        "lib/media/zerokun265.png"
+      ]
+    },
+    "lib/media/pxl_20250901_140150885.mp.jpg": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 3474857,
+      "exportedPath": "lib/media/pxl_20250901_140150885.mp.jpg",
+      "dependencies": []
+    },
+    "lib/media/pxl_20250901_140239768.mp.jpg": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 1939324,
+      "exportedPath": "lib/media/pxl_20250901_140239768.mp.jpg",
+      "dependencies": []
+    },
+    "article-banners/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better-banner.png": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 173147,
+      "exportedPath": "article-banners/i-made-the-jankiest-cloud-gaming-setup-possible..-and-how-you-should-do-it-better-banner.png",
+      "dependencies": []
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1756752931808,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     }
   }

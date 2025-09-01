@@ -6,19 +6,32 @@ summary: I didn't do much developement because of school and stuff, but when a f
 read_time: ~2 minutes
 authors:
   - ZeroKun265
+tags:
+  - Games
+  - Development
+  - Zeno-jam
+  - Godot
+  - Game-Jam
 ---
 
 # The Making of BugCatcher
-````col
+`````col
 ```col-md
 # [[index|:luc_arrow_left: Back]]
 ```
-```col-md
+````col-md
 textAlign=left
 ===
-#Games #Developement #Jam #Zeno-Jam #Godot
+```dataviewjs
+// Get all tags from the current note
+let tags = dv.current().file.tags;
+
+// Join them with spaces and display
+dv.paragraph(tags.join(" "));
 ```
+
 ````
+`````
 
 `````col
 ````col-md
@@ -118,3 +131,4 @@ dv.current().authors.forEach(author => {
 // Finally, print the entire paragraph using dv.paragraph
 dv.paragraph(paragraph);
 ```
+

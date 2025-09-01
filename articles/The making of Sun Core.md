@@ -6,19 +6,32 @@ summary: It was summer and i had nothing to do but code, you might think it's co
 read_time: ~4-5 minutes
 authors:
   - ZeroKun265
+tags:
+  - Games
+  - Development
+  - Ludum-Dare
+  - Python
+  - Game-Jam
 ---
 
 # The Making of Sun Core
-````col
+`````col
 ```col-md
 # [[index|:luc_arrow_left: Back]]
 ```
-```col-md
+````col-md
 textAlign=left
 ===
-#Games #Developement #Jam #Ludum-Dare #Python
+```dataviewjs
+// Get all tags from the current note
+let tags = dv.current().file.tags;
+
+// Join them with spaces and display
+dv.paragraph(tags.join(" "));
 ```
+
 ````
+`````
 
 `````col
 ````col-md
@@ -155,4 +168,4 @@ dv.current().authors.forEach(author => {
 
 // Finally, print the entire paragraph using dv.paragraph
 dv.paragraph(paragraph);
-```
+``` 

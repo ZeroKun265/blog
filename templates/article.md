@@ -1,23 +1,30 @@
 ---
-date: 
-banner: 
+date:
+banner:
 banner_y: 0
-summary: 
+summary:
 read_time: ~NaN minutes
 authors:
 ---
 
 # Title
-````col
+`````col
 ```col-md
 # [[index|:luc_arrow_left: Back]]
 ```
-```col-md
+````col-md
 textAlign=left
 ===
-insert tags here
+```dataviewjs
+// Get all tags from the current note
+let tags = dv.current().file.tags;
+
+// Join them with spaces and display
+dv.paragraph(tags.join(" "));
 ```
+
 ````
+`````
 
 `````col
 ````col-md
@@ -78,15 +85,14 @@ dv.paragraph(`\`\`\`\`col\n\`\`\`col-md\nflexGrow=0.65\n===\n\n\`\`\`\n\`\`\`col
 ****
 <br></br>
 # [[index|:luc_arrow_left: Homepage]]
-> [!invisible] ### Authors:
 ```dataviewjs
 const authorsFolder = "authors";  // Folder path for the authors, if needed
 
 // Initialize an empty string to build the entire paragraph
-let paragraph = "> $\\quad$\n";
+let paragraph = "> > [!invisible] ### Authors:\n";
 
 dv.current().authors.forEach(author => {
-	paragraph += `![[${author}.png|author]]**${author}** \$\\qquad\\qquad\$`;
+	paragraph += `![[authors/${author}.png|author-icon]]**${author}** \$\\qquad\\qquad\$`;
 })
 
 // Finally, print the entire paragraph using dv.paragraph

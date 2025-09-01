@@ -5,8 +5,8 @@
   "includePluginCSS": "obsidian-columns\ndataview\nobsidian-icon-shortcodes\nobsidian-completr",
   "includeSvelteCSS": true,
   "titleProperty": "title",
-  "customHeadContentPath": "/home/zerokun265/Obsidian/Blog/common/link-fix.html",
-  "faviconPath": "/home/zerokun265/Obsidian/Blog/docs/assets/icon.png",
+  "customHeadContentPath": "/home/zerokun265/Obsidian/blog/common/link-fix.html",
+  "faviconPath": "/home/zerokun265/Obsidian/blog/docs/assets/icon.png",
   "documentWidth": "70em",
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
@@ -30,7 +30,7 @@
   "authorName": "ZeroKun265",
   "vaultTitle": "ZeroKun265's Blog",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/zerokun265/Obsidian/Blog/docs",
+  "exportPath": "/home/zerokun265/Obsidian/blog/docs",
   "filesToExport": [
     [
       "article-banners",
